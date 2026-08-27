@@ -359,7 +359,7 @@ Movement Risk Layer는 기술만으로 구현할 수 없다. 이동이력과 공
 특정 키트나 단일 하드웨어에 종속되지 않도록 모듈형 구조를 유지한다.
 
 - 키트별 교체 가능한 Kit Adapter
-- 판독시간·ROI·C/T 위치를 정의하는 Kit Profile
+- 판독시간·ROI·C선·T선 위치를 정의하는 Kit Profile
 - 로트 변경 시 보정 가능한 Lot Profile
 - Sampling Unit과 Analysis Unit의 독립 교체
 - 엣지 기반 기본검사와 통신복구 후 서버 동기화
